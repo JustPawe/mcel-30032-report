@@ -2,52 +2,50 @@ This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: report.aux
 The style file: unsrt.bst
-I couldn't open database file refenreces.bib
----line 6 of file report.aux
- : \bibdata{refenreces.bib
- :                        }
-I'm skipping whatever remains of this command
-I found no \citation commands---while reading file report.aux
-I found no database files---while reading file report.aux
-You've used 0 entries,
+Database file #1: references.bib
+Warning--entry type for "Blackboard_UK" isn't style-file defined
+--line 1 of file references.bib
+Warning--entry type for "Blackboard_Learn" isn't style-file defined
+--line 10 of file references.bib
+You've used 2 entries,
             1791 wiz_defined-function locations,
-            445 strings with 3524 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
+            453 strings with 3645 characters,
+and the built_in function-call counts, 266 in all, are:
+= -- 18
+> -- 8
 < -- 0
-+ -- 0
-- -- 0
++ -- 4
+- -- 2
 * -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+:= -- 45
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 2
+duplicate$ -- 10
+empty$ -- 37
+format.name$ -- 2
+if$ -- 59
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 2
 missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+newline$ -- 13
+num.names$ -- 2
+pop$ -- 16
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1
+skip$ -- 6
 stack$ -- 0
 substring$ -- 0
-swap$ -- 0
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There were 3 error messages)
+while$ -- 2
+width$ -- 3
+write$ -- 20
+(There were 2 warnings)
